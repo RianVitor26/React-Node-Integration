@@ -1,0 +1,12 @@
+{
+  "name": "react-node-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RianVitor26/react-node-integration",
+  "author": "RianVitor26 <rianvitorlhe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1"
+  }
+}
